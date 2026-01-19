@@ -1,0 +1,12 @@
+Sample_ID	Location	Country	Kin	MU_DNA	RR	MF
+dc_100028_bb_noq.g	BARRA DE LA CRUZ	Mexico	3	Eastern Pacific	Mexico	Mother
+dc_100029_bb_noq.g	BARRA DE LA CRUZ	Mexico	1	Eastern Pacific	Mexico	Mother
+dc_100030_bb_noq.g	BARRA DE LA CRUZ	Mexico	4	Eastern Pacific	Mexico	Mother
+dc_100031_bb_noq.g	BARRA DE LA CRUZ	Mexico	5	Eastern Pacific	Mexico	Mother
+dc_100032_bb_noq.g	BARRA DE LA CRUZ	Mexico	6	Eastern Pacific	Mexico	Mother
+dc_99199_bb_noq.g	BARRA DE LA CRUZ	Mexico	3	Eastern Pacific	Mexico	Offspring
+dc_99223_bb_noq.g	BARRA DE LA CRUZ	Mexico	1	Eastern Pacific	Mexico	Offspring
+dc_99247_bb_noq.g	BARRA DE LA CRUZ	Mexico	4	Eastern Pacific	Mexico	Offspring
+dc_99275_bb_noq.g	BARRA DE LA CRUZ	Mexico	5	Eastern Pacific	Mexico	Offspring
+dc_99315_bb_noq.g	BARRA DE LA CRUZ	Mexico	6	Eastern Pacific	Mexico	Offspring
+dc_99951_bb_noq.g	BARRA DE LA CRUZ	Mexico	NONE	Eastern Pacific	Mexico	Offspring
