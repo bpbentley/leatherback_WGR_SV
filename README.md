@@ -22,27 +22,26 @@ root
 │		MEX_meta.txt
 │
 └───data
-|	└───winpca_out
-│	|		|	SUPER_1.pc_1.tsv.gz
-│	|		|	SUPER_1.pc_2.tsv.gz
-│	|		|	SUPER_1.hetp.tsv.gz
-│	|		|	...
-│	|		|	SUPER_28.pc_1.tsv.gz
-│	|		|	SUPER_28.pc_2.tsv.gz
-│	|		|	SUPER_28.hetp.tsv.gz
-|	|		|	SV_regions.txt
-|	|		|
-|	|		└───SV_genes	
-|	|
-|	└───kinship_out
-|			|	DerCor_kinship_all.kin0
-|			|	MEX_kinship.kin0
-|			|	STX_kinship.kin0
-|	
+|	└───pca
+│			SUPER_1.pc_1.tsv.gz
+│			SUPER_1.pc_2.tsv.gz
+│			SUPER_1.hetp.tsv.gz
+│			...
+│			SUPER_28.pc_1.tsv.gz
+│			SUPER_28.pc_2.tsv.gz
+│			SUPER_28.hetp.tsv.gz
+|					
 └───outputs
-│		SUPER_1.pc_1.html
-│		SUPER_1.hetp.html
-│		...
-│		SUPER_28.hetp.html
-│		SUPER_28.hetp.html		
+		└───winpca 
+		|		SUPER_1.pc_1.html
+		|		SUPER_1.hetp.html
+		|		...
+		|		SUPER_28.hetp.html
+		|		SUPER_28.hetp.html
+		|		SV_regions.txt
+		|	
+		└───kinship_out
+			|	DerCor_kinship_all.kin0
+			|	MEX_kinship.kin0
+			|	STX_kinship.kin0	
 ```
